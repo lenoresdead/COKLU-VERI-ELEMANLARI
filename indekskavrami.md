@@ -20,7 +20,7 @@ listedeki 4 sayısını a harfi olarak yeniden adlandırır.
 
   b= [1,3,-5,-7]
 
-  pozitiflerintoplami=a[0]+a[1]
+  pozitiflerintoplami=b[0]+b[1]
   
-  negatiflerintoplami=a[2]+a[3]
+  negatiflerintoplami=b[2]+b[3]
   
