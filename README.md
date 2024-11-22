@@ -3,3 +3,5 @@ Bu repo, Python yazılım dilinde tek bir değişkende birden fazla veriyi depol
 <a href="https://github.com/lenoresdead/COKLU-VERI-ELEMANLARI/blob/425250c82021ef11aa57f709f5a425f3c2a7d62a/indekskavrami.md">indeks kavramı için tıklayınız</a>
 
 <a href="https://github.com/lenoresdead/COKLU-VERI-ELEMANLARI/blob/5d5bcac712dbe6713f37aaf0816c88026b764888/Liste%20Kavrami.md">liste kavramı için tıklayınız</a>
+
+<a href="">liste python için tıklayınız</a>
