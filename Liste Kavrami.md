@@ -1,14 +1,14 @@
 # Liste Kavramı
 Liste birden fazla veriyi tek bir yapıda depolamak için kullanılan bir veri yapısıdır ve verilerin sıralı bir koleksiyonudur ve her öğe, belirli bir indeks ile erişilebilir.
-# 1 
-Tek bir değişkende birden fazlaFarklı listeleri birleşt veri depolamamıza yardımcı olur.
-# 2
-Köşeli parantezle [] oluşturulur.
-# 3
-Elemanlarına ulaşmak için indeks kullanılır.
-# 4
-Elemanları ayırmak için virgül (,) kullanılır.
-# 5
+# Listenin özellikleri
+1. Tek bir değişkende birden fazlaFarklı listeleri birleşt veri depolamamıza yardımcı olur.
+
+2.Köşeli parantezle [] oluşturulur.
+
+3.Elemanlarına ulaşmak için indeks kullanılır.
+
+4.Elemanları ayırmak için virgül (,) kullanılır.
+
 Listelerde yapılan bazı işlemler:
 # Ekleme
 Listenin sonuna eleman ekleyebiliriz.
