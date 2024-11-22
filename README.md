@@ -1,1 +1,3 @@
 Bu repo, Python yazılım dilinde tek bir değişkende birden fazla veriyi depolamak için kullandığımız çoklu veri elemları işlenecektir.Başlıca 4 kavramı olan ama üçünü işleyeceğimiz başlıklardan listenin özelliklerini,demetleri,sözlükleri ve nerede kullanabileceğimiz hakkında bilgi verilecektir.Ek olarak indeks kavramı ve bu başlıklarla bağlantısı incelenecek ve her birine python dosyası örnekleri verilecektir.
+
+https://github.com/lenoresdead/COKLU-VERI-ELEMANLARI/blob/425250c82021ef11aa57f709f5a425f3c2a7d62a/indekskavrami.md     <a href="https://github.com/lenoresdead/COKLU-VERI-ELEMANLARI/blob/425250c82021ef11aa57f709f5a425f3c2a7d62a/indekskavrami.md">indeks kavramı için tıklayınız</a>
